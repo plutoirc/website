@@ -1,1 +1,3 @@
-# website
+# Website
+
+The website for plutoirc.
